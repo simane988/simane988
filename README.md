@@ -1,7 +1,6 @@
-## Hi there 👋
+<h1 align="center"> Hey, Simane is here 👋 </h1>
 
-<!--
-**simane988/simane988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/login.gif" align="right" width="500">
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=simane988&show_icons=true)
