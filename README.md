@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, Simane is here 👋 </h1>
 
-<img src="assets/login.gif" align="right" width="400">
+<img src="assets/login.gif" align="right" width="300">
 
 Here are some ideas to get you started:
 
